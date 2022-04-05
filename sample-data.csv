@@ -1,0 +1,11 @@
+,track_name,artist_name,album_name,artist_genres,track_popularity,artist_popularity,mood_danceability,mood_valence,mood_energy,mood_tempo,prop_loudness,prop_speechiness,prop_instrumentalness,context_liveness,context_acousticness
+5,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,Mercury - Act 1,"['modern rock', 'rock']",90,92,0.728,0.555,0.783,77.011,-4.424,0.266,0.0,0.434,0.237
+7,abcdefu,GAYLE,abcdefu,['modern alternative pop'],100,83,0.695,0.415,0.54,121.932,-5.692,0.0493,0.0,0.367,0.299
+8,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,MONTERO,"['lgbtq+ hip hop', 'pop']",91,89,0.741,0.892,0.691,150.087,-7.395,0.0672,0.0,0.0476,0.0221
+17,Easy On Me,Adele,30,"['british soul', 'pop', 'pop soul', 'uk pop']",91,91,0.604,0.13,0.366,141.981,-7.519,0.0282,0.0,0.133,0.578
+18,THATS WHAT I WANT,Lil Nas X,MONTERO,"['lgbtq+ hip hop', 'pop']",97,89,0.737,0.546,0.846,87.981,-4.51,0.22,0.0,0.0486,0.00614
+25,Infinity,Jaymes Young,Feel Something,"['modern rock', 'pop']",96,81,0.671,0.494,0.673,121.963,-6.941,0.0444,5.29e-05,0.304,0.148
+36,Kiss Me More (feat. SZA),Doja Cat,Planet Her,"['dance pop', 'pop']",89,94,0.764,0.781,0.705,110.97,-3.463,0.0284,8.92e-05,0.12,0.259
+39,traitor,Olivia Rodrigo,SOUR,['pop'],94,90,0.38,0.0849,0.339,100.607,-7.885,0.0338,0.0,0.12,0.691
+43,Levitating (feat. DaBaby),Dua Lipa,Future Nostalgia,"['dance pop', 'pop', 'uk pop']",90,94,0.702,0.915,0.825,102.977,-3.787,0.0601,0.0,0.0674,0.00883
+47,drivers license,Olivia Rodrigo,SOUR,['pop'],93,90,0.561,0.137,0.431,143.875,-8.81,0.0578,1.42e-05,0.106,0.768
