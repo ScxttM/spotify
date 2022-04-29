@@ -19,5 +19,6 @@ df2022 = pd.read_csv('2022.csv')
 
 frames = [df2010, df2011, df2012, df2013, df2014, df2015, df2016, df2017, df2018, df2019, df2020, df2021, df2022]
 result = pd.concat(frames)
-result = result.reset_index()
-result.to_csv('result.csv')
+result.rename(columns={'Unnamed: 0': 'Rank'}, inplace=True)
+# result = result.reset_index()
+result.to_csv('result.csv', index=False)
