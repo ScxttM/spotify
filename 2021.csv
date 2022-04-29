@@ -1,0 +1,95 @@
+,track_name,artist_name,album_name,artist_genres,track_popularity,artist_popularity,mood_danceability,mood_valence,mood_energy,mood_tempo,prop_loudness,prop_speechiness,prop_instrumentalness,context_liveness,context_acousticness
+1,good 4 u,Olivia Rodrigo,good 4 u,['pop'],30,91,0.556,0.668,0.661,168.56,-5.052,0.204,0.0,0.101,0.3
+2,Leave The Door Open,Bruno Mars,Leave The Door Open,"['dance pop', 'pop']",68,92,0.586,0.719,0.616,148.088,-7.964,0.0324,0.0,0.0927,0.182
+3,Beggin',Måneskin,Chosen,"['indie rock italiano', 'italian pop']",86,82,0.714,0.589,0.8,134.002,-4.808,0.0504,0.0,0.359,0.127
+4,Kiss Me More (feat. SZA),Doja Cat,Kiss Me More (feat. SZA),"['dance pop', 'pop']",83,94,0.762,0.742,0.701,110.968,-3.541,0.0286,0.000158,0.123,0.235
+5,34+35,Ariana Grande,Positions,"['dance pop', 'pop']",81,93,0.83,0.485,0.585,109.978,-6.476,0.094,0.0,0.248,0.237
+6,MONEY,LISA,LALISA,['k-pop'],82,77,0.831,0.396,0.554,140.026,-9.998,0.218,6.12e-05,0.152,0.161
+7,MONTERO (Call Me By Your Name),Lil Nas X,MONTERO (Call Me By Your Name),"['lgbtq+ hip hop', 'pop']",80,89,0.61,0.758,0.508,178.818,-6.682,0.152,0.0,0.384,0.297
+8,Astronaut In The Ocean,Masked Wolf,Astronaut In The Ocean,['australian hip hop'],80,75,0.778,0.472,0.695,149.996,-6.865,0.0913,0.0,0.15,0.175
+9,Bad Habits,Ed Sheeran,Bad Habits,"['pop', 'uk pop']",38,96,0.808,0.591,0.897,126.026,-3.712,0.0348,3.14e-05,0.364,0.0469
+10,telepatía,Kali Uchis,Sin Miedo (del Amor y Otros Demonios) ∞,"['colombian pop', 'dance pop', 'pop', 'r&b']",82,85,0.653,0.553,0.524,83.97,-9.016,0.0502,0.0,0.203,0.112
+11,Good Days,SZA,Good Days,"['pop', 'r&b']",81,87,0.436,0.412,0.655,121.002,-8.37,0.0583,8.1e-06,0.688,0.499
+12,Woman,Doja Cat,Planet Her,"['dance pop', 'pop']",91,94,0.824,0.881,0.764,107.998,-4.175,0.0854,0.00294,0.117,0.0888
+13,drivers license,Olivia Rodrigo,drivers license,['pop'],30,91,0.585,0.132,0.436,143.874,-8.761,0.0601,1.31e-05,0.105,0.721
+14,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,Justice,"['canadian pop', 'pop']",86,96,0.677,0.464,0.696,90.03,-6.181,0.119,0.0,0.42,0.321
+15,STAY (with Justin Bieber),The Kid LAROI,STAY (with Justin Bieber),['australian hip hop'],90,89,0.591,0.478,0.764,169.928,-5.484,0.0483,0.0,0.103,0.0383
+16,Levitating (feat. DaBaby),Dua Lipa,Levitating (feat. DaBaby),"['dance pop', 'pop', 'uk pop']",79,94,0.702,0.915,0.825,102.977,-3.787,0.0601,0.0,0.0674,0.00883
+17,Heat Waves,Glass Animals,Dreamland,"['gauze pop', 'indietronica', 'shiver pop']",86,87,0.761,0.531,0.525,80.87,-6.9,0.0944,6.7e-06,0.0921,0.44
+18,Butter,BTS,Butter,"['k-pop', 'k-pop boy group']",10,96,0.759,0.695,0.459,109.997,-5.187,0.0948,0.0,0.0906,0.00323
+19,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,Save Your Tears (Remix),"['canadian contemporary r&b', 'canadian pop', 'pop']",85,97,0.65,0.593,0.825,118.091,-4.645,0.0325,2.44e-05,0.0936,0.0215
+20,Easy On Me,Adele,Easy On Me,"['british soul', 'pop', 'pop soul', 'uk pop']",88,90,0.604,0.13,0.366,141.981,-7.519,0.0282,0.0,0.133,0.578
+21,Happier Than Ever,Billie Eilish,Happier Than Ever,"['art pop', 'electropop', 'pop']",88,93,0.332,0.297,0.225,81.055,-8.697,0.0348,0.00349,0.128,0.767
+22,Heartbreak Anniversary,Giveon,TAKE TIME,"['pop', 'r&b']",81,83,0.449,0.543,0.465,89.087,-8.964,0.0791,1.02e-06,0.303,0.524
+23,deja vu,Olivia Rodrigo,deja vu,['pop'],22,91,0.439,0.172,0.61,181.088,-7.236,0.116,1.07e-05,0.341,0.593
+24,Up,Cardi B,Up,"['dance pop', 'pop', 'pop rap', 'rap']",74,86,0.868,0.819,0.795,166.0,-6.044,0.269,0.0193,0.0461,0.0012
+25,Todo De Ti,Rauw Alejandro,Todo De Ti,"['puerto rican pop', 'trap latino']",83,93,0.78,0.342,0.718,127.949,-3.605,0.0506,0.000163,0.0932,0.31
+26,positions,Ariana Grande,Positions,"['dance pop', 'pop']",84,93,0.737,0.682,0.802,144.015,-4.771,0.0878,0.0,0.0931,0.468
+27,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),['pop'],83,98,0.631,0.205,0.518,93.023,-8.771,0.0303,0.0,0.088,0.274
+28,My Universe,Coldplay,My Universe,"['permanent wave', 'pop']",86,92,0.588,0.443,0.701,104.988,-6.39,0.0402,0.0,0.2,0.00813
+29,Shivers,Ed Sheeran,Shivers,"['pop', 'uk pop']",13,96,0.788,0.822,0.859,141.02,-2.724,0.0856,0.0,0.0424,0.281
+30,Streets,Doja Cat,Hot Pink,"['dance pop', 'pop']",83,94,0.749,0.189,0.463,90.035,-8.433,0.0842,0.0382,0.338,0.21
+31,Anyone,Justin Bieber,Anyone,"['canadian pop', 'pop']",76,96,0.686,0.584,0.538,115.884,-8.026,0.0345,3.13e-06,0.113,0.181
+32,Solar Power,Lorde,Solar Power,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",5,82,0.735,0.897,0.47,87.971,-9.405,0.1,0.000105,0.32,0.266
+33,Shivers,Ed Sheeran,Shivers,"['pop', 'uk pop']",79,96,0.788,0.822,0.859,141.02,-2.724,0.0856,0.0,0.0424,0.281
+34,WITHOUT YOU (with Miley Cyrus),The Kid LAROI,WITHOUT YOU (with Miley Cyrus),['australian hip hop'],75,89,0.655,0.467,0.469,92.56,-6.257,0.0292,0.0,0.0956,0.173
+35,Calling My Phone,Lil Tjay,Destined 2 Win,"['brooklyn drill', 'melodic rap', 'nyc rap']",80,87,0.907,0.202,0.393,104.949,-7.636,0.0539,1.35e-06,0.135,0.451
+36,Girls Want Girls (with Lil Baby),Drake,Certified Lover Boy,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",80,98,0.767,0.381,0.438,86.975,-8.726,0.29,0.0,0.142,0.181
+37,Baila Conmigo (with Rauw Alejandro),Selena Gomez,Revelación - EP,"['dance pop', 'pop', 'post-teen pop']",76,86,0.823,0.664,0.544,149.903,-7.132,0.0715,0.00315,0.0966,0.0215
+38,love nwantiti (ah ah ah),CKay,CKay The First,['afro r&b'],86,81,0.727,0.533,0.739,93.005,-3.805,0.0411,0.00137,0.161,0.365
+39,We're Good,Dua Lipa,Future Nostalgia (The Moonlight Edition),"['dance pop', 'pop', 'uk pop']",77,94,0.722,0.59,0.588,134.01,-5.932,0.0544,0.0,0.183,0.0319
+40,DÁKITI,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,"['latin', 'reggaeton', 'trap latino']",82,100,0.731,0.145,0.573,109.928,-10.059,0.0544,5.22e-05,0.113,0.401
+41,willow,Taylor Swift,evermore,['pop'],76,98,0.392,0.529,0.574,81.112,-9.195,0.17,0.00179,0.145,0.833
+42,Mood (feat. iann dior),24kGoldn,El Dorado,"['cali rap', 'pop rap']",84,81,0.701,0.732,0.716,91.007,-3.671,0.0361,0.0,0.324,0.174
+43,BICHOTA,KAROL G,BICHOTA,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",76,91,0.863,0.838,0.666,163.908,-4.158,0.152,0.000493,0.103,0.212
+44,Hold On,Justin Bieber,Hold On,"['canadian pop', 'pop']",76,96,0.658,0.29,0.634,139.98,-5.797,0.0413,0.0,0.132,0.0106
+45,Love Story (Taylor’s Version),Taylor Swift,Love Story (Taylor’s Version),['pop'],72,98,0.626,0.416,0.79,119.082,-4.302,0.0311,3.97e-06,0.0989,0.135
+46,Whoopty,CJ,Whoopty,['nyc rap'],75,70,0.719,0.66,0.648,140.201,-7.6,0.125,0.0,0.127,0.2
+47,Bandido,Myke Towers,Bandido,"['latin', 'reggaeton', 'trap latino']",76,90,0.713,0.682,0.617,168.021,-4.637,0.0887,0.0,0.0962,0.122
+48,Afterglow,Ed Sheeran,Afterglow,"['pop', 'uk pop']",76,96,0.641,0.273,0.324,110.184,-5.851,0.0299,0.0,0.328,0.698
+49,GIRL LIKE ME,Black Eyed Peas,TRANSLATION,"['dance pop', 'pop', 'pop rap']",76,84,0.965,0.312,0.485,124.025,-8.784,0.191,0.0237,0.0655,0.0206
+50,Prisoner (feat. Dua Lipa),Miley Cyrus,Prisoner (feat. Dua Lipa),"['dance pop', 'pop', 'post-teen pop']",64,87,0.781,0.595,0.67,127.99,-3.912,0.0452,0.0,0.0761,0.0103
+51,Blinding Lights,The Weeknd,After Hours,"['canadian contemporary r&b', 'canadian pop', 'pop']",89,97,0.514,0.334,0.73,171.005,-5.934,0.0598,9.54e-05,0.0897,0.00146
+52,LA NOCHE DE ANOCHE,Bad Bunny,EL ÚLTIMO TOUR DEL MUNDO,"['latin', 'reggaeton', 'trap latino']",82,100,0.856,0.391,0.618,81.993,-4.892,0.286,0.0,0.0866,0.0303
+53,Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,Beautiful Mistakes (feat. Megan Thee Stallion),"['pop', 'pop rock']",33,90,0.713,0.721,0.676,99.048,-5.483,0.027,0.0,0.154,0.0377
+54,Therefore I Am,Billie Eilish,Therefore I Am,"['art pop', 'electropop', 'pop']",75,93,0.889,0.716,0.34,94.009,-7.773,0.0697,0.13,0.055,0.218
+55,test drive,Ariana Grande,Positions (Deluxe),"['dance pop', 'pop']",66,93,0.698,0.322,0.708,115.036,-4.943,0.0454,0.0,0.124,0.0251
+56,The Business,Tiësto,The Business,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop', 'pop dance', 'slap house', 'trance', 'tropical house']",83,87,0.798,0.235,0.62,120.031,-7.079,0.232,0.0192,0.112,0.414
+57,Lemonade,Internet Money,"Lemonade (feat. Gunna, Don Toliver & NAV)","['rap', 'trap']",77,79,0.799,0.471,0.66,140.04,-6.153,0.079,0.0,0.111,0.256
+58,Watermelon Sugar,Harry Styles,Fine Line,['pop'],88,93,0.548,0.557,0.816,95.39,-4.209,0.0465,0.0,0.335,0.122
+59,Lost Cause,Billie Eilish,Lost Cause,"['art pop', 'electropop', 'pop']",4,93,0.671,0.518,0.336,75.051,-8.494,0.241,0.00751,0.0577,0.705
+60,Selfish Love (with Selena Gomez),DJ Snake,Selfish Love (with Selena Gomez),"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",64,82,0.723,0.443,0.646,110.971,-7.973,0.102,0.352,0.0994,0.0206
+61,What You Know Bout Love,Pop Smoke,LOVE,['brooklyn drill'],27,88,0.584,0.56,0.547,83.917,-8.502,0.382,1.64e-06,0.134,0.655
+62,Dynamite,BTS,BE,"['k-pop', 'k-pop boy group']",38,96,0.746,0.737,0.765,114.044,-4.41,0.0993,0.0,0.0936,0.0112
+63,Head & Heart (feat. MNEK),Joel Corry,Head & Heart (feat. MNEK),"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",81,82,0.734,0.905,0.874,122.953,-3.158,0.0662,1.14e-05,0.0489,0.168
+64,Save Your Tears,The Weeknd,After Hours,"['canadian contemporary r&b', 'canadian pop', 'pop']",87,97,0.68,0.644,0.826,118.051,-5.487,0.0309,1.24e-05,0.543,0.0212
+65,Body,Megan Thee Stallion,Good News,"['dance pop', 'houston rap', 'pop', 'trap queen']",73,87,0.914,0.469,0.732,94.066,-6.1,0.241,0.0,0.107,0.0166
+66,Best Friend (feat. Doja Cat),Saweetie,Best Friend (feat. Doja Cat),"['cali rap', 'dance pop', 'pop', 'pop rap', 'r&b', 'trap queen']",76,80,0.84,0.402,0.766,94.018,-4.12,0.136,3.61e-06,0.0684,0.00302
+67,"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",Ariana Grande,34+35 (Remix),"['dance pop', 'pop']",69,93,0.88,0.726,0.662,109.988,-5.766,0.304,0.0,0.227,0.205
+68,What’s Next,Drake,Scary Hours 2,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",75,98,0.781,0.0628,0.594,129.895,-6.959,0.0485,0.0,0.162,0.0136
+69,On The Ground,ROSÉ,R,['k-pop'],69,68,0.311,0.286,0.607,188.7,-6.578,0.11,0.0,0.131,0.0174
+70,As I Am (feat. Khalid),Justin Bieber,Justice,"['canadian pop', 'pop']",70,96,0.595,0.109,0.543,99.928,-8.149,0.038,0.0,0.0975,0.127
+71,Met Him Last Night (feat. Ariana Grande),Demi Lovato,Dancing With The Devil…The Art of Starting Over,"['dance pop', 'pop', 'post-teen pop']",61,85,0.538,0.12,0.512,144.978,-4.548,0.0262,0.0,0.101,0.22
+72,pov,Ariana Grande,Positions,"['dance pop', 'pop']",76,93,0.487,0.173,0.534,131.798,-5.664,0.0555,0.0,0.1,0.36
+73,m y . l i f e (with 21 Savage & Morray),J. Cole,The Off-Season,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",77,91,0.597,0.0753,0.587,140.021,-7.026,0.137,0.0,0.214,0.0622
+74,Your Power,Billie Eilish,Your Power,"['art pop', 'electropop', 'pop']",7,93,0.634,0.203,0.285,129.65,-14.007,0.0807,0.000359,0.232,0.937
+75,Yonaguni,Bad Bunny,Yonaguni,"['latin', 'reggaeton', 'trap latino']",89,100,0.644,0.44,0.648,179.951,-4.601,0.118,0.0,0.135,0.276
+76,Build a Bitch,Bella Poarch,Build a Bitch,['modern alternative pop'],77,69,0.855,0.866,0.463,102.931,-7.454,0.0367,1.77e-05,0.347,0.217
+77,Need to Know,Doja Cat,Need to Know,"['dance pop', 'pop']",72,94,0.664,0.194,0.609,130.041,-6.509,0.0707,0.0,0.0926,0.304
+78,You Right,Doja Cat,Planet Her,"['dance pop', 'pop']",85,94,0.828,0.436,0.621,128.986,-6.414,0.0565,0.00233,0.0845,0.0164
+79,I WANNA BE YOUR SLAVE,Måneskin,Teatro d'ira - Vol. I,"['indie rock italiano', 'italian pop']",83,82,0.75,0.958,0.608,132.507,-4.008,0.0387,0.0,0.178,0.00165
+80,Permission to Dance,BTS,Butter / Permission to Dance,"['k-pop', 'k-pop boy group']",36,96,0.702,0.646,0.741,124.925,-5.33,0.0427,0.0,0.337,0.00544
+81,Motley Crew,Post Malone,Motley Crew,"['dfw rap', 'melodic rap', 'rap']",79,91,0.797,0.288,0.631,129.915,-3.818,0.0786,3.71e-06,0.0998,0.0904
+82,Fair Trade (with Travis Scott),Drake,Certified Lover Boy,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",83,98,0.666,0.292,0.465,167.937,-8.545,0.26,0.0,0.215,0.0503
+83,Need to Know,Doja Cat,Planet Her,"['dance pop', 'pop']",88,94,0.664,0.194,0.609,130.041,-6.509,0.0707,0.0,0.0926,0.304
+84,Hurricane,Kanye West,Donda,"['chicago rap', 'rap']",20,96,0.587,0.351,0.561,80.009,-6.569,0.146,0.0,0.109,0.0466
+85,Pepas,Farruko,Pepas,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",88,90,0.762,0.442,0.766,130.001,-3.955,0.0343,6.98e-05,0.128,0.00776
+86,THATS WHAT I WANT,Lil Nas X,MONTERO,"['lgbtq+ hip hop', 'pop']",91,89,0.737,0.546,0.846,87.981,-4.51,0.22,0.0,0.0486,0.00614
+87,"I am not a woman, I'm a god",Halsey,"If I Can’t Have Love, I Want Power","['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",62,87,0.523,0.494,0.702,179.992,-6.74,0.0462,0.0325,0.063,0.00397
+88,Rumors (feat. Cardi B),Lizzo,Rumors (feat. Cardi B),"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",74,78,0.827,0.607,0.731,118.992,-5.524,0.088,0.0,0.418,0.13
+89,Skate,Bruno Mars,Skate,"['dance pop', 'pop']",57,92,0.708,0.698,0.598,112.027,-8.365,0.0291,0.0,0.17,0.037
+90,t r a n s p a r e n t s o u l feat. Travis Barker,WILLOW,t r a n s p a r e n t s o u l feat. Travis Barker,"['afrofuturism', 'dance pop', 'electropop', 'pop', 'post-teen pop']",70,84,0.39,0.191,0.83,90.021,-5.201,0.0563,0.0,0.156,0.0021
+91,Cold Heart - PNAU Remix,Elton John,Cold Heart (PNAU Remix),"['glam rock', 'mellow gold', 'piano rock']",90,88,0.796,0.942,0.798,116.032,-6.312,0.0317,4.19e-05,0.0952,0.034
+92,Leave Before You Love Me (with Jonas Brothers),Marshmello,Leave Before You Love Me,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",83,86,0.721,0.637,0.738,119.976,-4.77,0.0403,4.41e-06,0.118,0.00226
+93,Girl From Rio,Anitta,Girl From Rio,"['funk carioca', 'funk pop', 'pagode baiano', 'pop nacional']",64,87,0.692,0.733,0.639,140.059,-6.717,0.0352,0.0,0.199,0.00727
+94,Arcade (feat. FLETCHER),Duncan Laurence,Small Town Boy,['dutch pop'],70,73,0.446,0.267,0.395,71.944,-9.328,0.0365,0.00216,0.128,0.815

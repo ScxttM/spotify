@@ -1,0 +1,101 @@
+,track_name,artist_name,album_name,artist_genres,track_popularity,artist_popularity,mood_danceability,mood_valence,mood_energy,mood_tempo,prop_loudness,prop_speechiness,prop_instrumentalness,context_liveness,context_acousticness
+1,Shape of You,Ed Sheeran,÷ (Deluxe),"['pop', 'uk pop']",84,96,0.825,0.931,0.652,95.977,-3.183,0.0802,0.0,0.0931,0.581
+2,Symphony (feat. Zara Larsson),Clean Bandit,So Good,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",0,81,0.718,0.497,0.609,122.95,-4.699,0.043,3.29e-05,0.234,0.281
+3,Despacito (Featuring Daddy Yankee),Luis Fonsi,Despacito (Featuring Daddy Yankee),"['latin', 'latin pop', 'puerto rican pop']",0,80,0.66,0.846,0.786,177.833,-4.757,0.17,0.0,0.112,0.209
+4,Too Good At Goodbyes,Sam Smith,The Thrill Of It All (Special Edition),"['dance pop', 'pop', 'uk pop']",78,86,0.681,0.476,0.372,91.873,-8.237,0.0432,0.0,0.169,0.64
+5,Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",75,81,0.72,0.742,0.763,101.965,-4.068,0.0523,0.0,0.18,0.406
+6,Havana (feat. Young Thug),Camila Cabello,Havana (feat. Young Thug),"['dance pop', 'pop', 'post-teen pop']",2,89,0.768,0.418,0.517,104.992,-4.323,0.0312,3.8e-05,0.104,0.186
+7,Thunder,Imagine Dragons,Evolve,"['modern rock', 'rock']",1,93,0.6,0.298,0.81,167.88,-4.749,0.0479,0.21,0.155,0.00683
+8,Don't Wanna Know (feat. Kendrick Lamar),Maroon 5,Red Pill Blues (Deluxe),"['pop', 'pop rock']",68,90,0.783,0.418,0.61,100.047,-6.124,0.0696,0.0,0.0983,0.343
+9,Something Just Like This,The Chainsmokers,Memories...Do Not Open,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",82,86,0.617,0.446,0.635,103.019,-6.769,0.0317,1.44e-05,0.164,0.0498
+10,Perfect,Ed Sheeran,÷ (Deluxe),"['pop', 'uk pop']",84,96,0.599,0.168,0.448,95.05,-6.312,0.0232,0.0,0.106,0.163
+11,There's Nothing Holdin' Me Back,Shawn Mendes,Illuminate (Deluxe),"['canadian pop', 'dance pop', 'pop', 'viral pop']",0,90,0.857,0.966,0.8,121.996,-4.035,0.0583,0.0,0.0913,0.381
+12,All Night,The Vamps,Night & Day (Night Edition),"['boy band', 'dance pop', 'pop', 'post-teen pop']",73,75,0.538,0.507,0.804,144.992,-5.194,0.0358,0.0,0.33,0.0041
+13,Scars To Your Beautiful,Alessia Cara,Know-It-All (Deluxe),"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'pop', 'post-teen pop']",75,80,0.319,0.449,0.739,194.169,-5.74,0.272,0.0,0.111,0.0285
+14,Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,Dusk Till Dawn (feat. Sia) [Radio Edit],"['dance pop', 'electropop', 'pop', 'post-teen pop', 'uk pop']",77,81,0.259,0.0951,0.437,180.042,-6.589,0.0386,1.32e-06,0.106,0.102
+15,No Lie,Sean Paul,Mad Love The Prequel,"['dance pop', 'dancehall', 'pop', 'pop rap']",83,85,0.742,0.463,0.882,102.04,-2.862,0.117,0.0,0.206,0.0466
+16,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)","['dance pop', 'pop', 'post-teen pop']",76,76,0.664,0.742,0.708,103.07,-4.154,0.0474,0.0,0.0841,0.0337
+17,Cold (feat. Future),Maroon 5,Red Pill Blues (Deluxe),"['pop', 'pop rock']",0,90,0.697,0.506,0.716,99.905,-6.288,0.113,0.0,0.0424,0.118
+18,Attention,Charlie Puth,Attention,"['dance pop', 'pop', 'viral pop']",0,86,0.774,0.777,0.626,100.041,-4.432,0.0432,3.12e-05,0.0848,0.0969
+19,Paris,The Chainsmokers,Memories...Do Not Open,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",73,86,0.653,0.219,0.658,99.99,-6.428,0.0304,1.66e-06,0.0939,0.0215
+20,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,Pretty Girl (Cheat Codes X CADE Remix),"['alt z', 'dance pop', 'dark pop', 'pop', 'post-teen pop']",60,70,0.703,0.733,0.868,121.03,-4.661,0.0291,0.132,0.104,0.15
+21,Say You Won't Let Go,James Arthur,Back from the Edge,"['pop', 'talent show', 'uk pop']",83,83,0.358,0.494,0.557,85.043,-7.398,0.059,0.0,0.0902,0.695
+22,That's What I Like,Bruno Mars,24K Magic,"['dance pop', 'pop']",82,92,0.853,0.86,0.56,134.066,-4.961,0.0406,0.0,0.0944,0.013
+23,Mercy,Shawn Mendes,Illuminate (Deluxe),"['canadian pop', 'dance pop', 'pop', 'viral pop']",0,90,0.561,0.383,0.674,148.127,-4.882,0.0818,0.0,0.111,0.118
+24,New Rules,Dua Lipa,Dua Lipa (Deluxe),"['dance pop', 'pop', 'uk pop']",60,94,0.763,0.592,0.72,116.01,-5.181,0.0691,1.11e-05,0.114,0.00261
+25,Stay,Zedd,Stay,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'pop rap', 'tropical house']",75,80,0.69,0.544,0.622,102.04,-5.025,0.0622,0.0,0.116,0.253
+26,No Promises (feat. Demi Lovato),Cheat Codes,No Promises (feat. Demi Lovato),"['dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'tropical house']",67,78,0.741,0.595,0.667,112.956,-5.445,0.134,0.0,0.106,0.0575
+27,Mama,Jonas Blue,Jonas Blue: Electronic Nature - The Mix 2017,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",51,80,0.739,0.547,0.792,104.016,-4.256,0.0418,0.0,0.0516,0.091
+28,Most Girls,Hailee Steinfeld,Most Girls,"['dance pop', 'pop', 'post-teen pop']",72,76,0.756,0.417,0.572,102.986,-7.019,0.0763,0.0,0.0853,0.0478
+29,Scared to Be Lonely,Martin Garrix,Scared to Be Lonely,"['dance pop', 'dutch edm', 'edm', 'electro house', 'pop', 'pop dance', 'progressive house', 'tropical house']",77,82,0.584,0.195,0.54,137.972,-7.786,0.0576,0.0,0.261,0.0895
+30,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",ZAYN,I Don’t Wanna Live Forever (Fifty Shades Darker),"['dance pop', 'electropop', 'pop', 'post-teen pop', 'uk pop']",0,81,0.735,0.0862,0.451,117.973,-8.374,0.0585,1.3e-05,0.325,0.0631
+31,Galway Girl,Ed Sheeran,÷ (Deluxe),"['pop', 'uk pop']",77,96,0.624,0.781,0.876,99.943,-3.374,0.1,0.0,0.327,0.0735
+32,Sorry Not Sorry,Demi Lovato,Tell Me You Love Me (Deluxe),"['dance pop', 'pop', 'post-teen pop']",0,85,0.704,0.863,0.633,144.021,-6.923,0.241,0.0,0.29,0.0214
+33,2U (feat. Justin Bieber),David Guetta,2U (feat. Justin Bieber),"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",67,91,0.548,0.557,0.65,144.937,-5.827,0.0591,0.0,0.225,0.219
+34,Middle Of The Night,The Vamps,Night & Day (Night Edition),"['boy band', 'dance pop', 'pop', 'post-teen pop']",61,75,0.588,0.397,0.749,130.093,-4.323,0.058,0.0,0.0813,0.0037
+35,Hold On,Chord Overstreet,Hold On,['acoustic pop'],80,69,0.618,0.167,0.443,119.949,-9.681,0.0526,0.0,0.0829,0.469
+36,Young Dumb & Broke,Khalid,American Teen,"['pop', 'pop r&b']",79,90,0.799,0.394,0.539,136.948,-6.351,0.0421,1.66e-05,0.165,0.199
+37,Happier,Ed Sheeran,÷ (Deluxe),"['pop', 'uk pop']",79,96,0.522,0.236,0.385,89.792,-7.355,0.0288,0.0,0.135,0.536
+38,It Ain't Me (with Selena Gomez),Kygo,It Ain't Me (with Selena Gomez),"['edm', 'pop', 'pop dance', 'tropical house']",75,85,0.64,0.515,0.533,99.968,-6.596,0.0706,0.0,0.0864,0.119
+39,September Song,JP Cooper,Raised Under Grey Skies (Deluxe),"['dance pop', 'neo mellow', 'pop', 'pop rock', 'tropical house', 'uk pop']",71,75,0.614,0.374,0.615,95.941,-6.7,0.0444,0.0,0.0921,0.054
+40,Touch,Little Mix,Touch,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'uk pop']",0,84,0.635,0.541,0.73,101.859,-3.942,0.0965,0.0,0.423,0.04
+41,Bored,Billie Eilish,Bored,"['art pop', 'electropop', 'pop']",83,93,0.614,0.112,0.318,119.959,-12.695,0.0478,0.00239,0.0795,0.896
+42,Solo Dance,Martin Jensen,Solo Dance,"['dance pop', 'danish electronic', 'deep house', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",0,73,0.744,0.36,0.836,114.965,-2.396,0.0507,0.0,0.194,0.0435
+43,Castle on the Hill,Ed Sheeran,÷ (Deluxe),"['pop', 'uk pop']",77,96,0.461,0.471,0.834,135.007,-4.868,0.0989,1.14e-05,0.14,0.0232
+44,Look What You Made Me Do,Taylor Swift,reputation,['pop'],76,98,0.766,0.506,0.709,128.07,-6.471,0.123,1.41e-05,0.126,0.204
+45,Without You (feat. Sandro Cavazza),Avicii,AVĪCI (01),"['dance pop', 'edm', 'pop', 'pop dance']",77,85,0.662,0.295,0.858,133.993,-4.844,0.0428,0.0,0.0456,0.00163
+46,Bad Things (with Camila Cabello),Machine Gun Kelly,bloom,"['ohio hip hop', 'pop rap']",0,89,0.678,0.254,0.696,137.822,-4.79,0.133,0.0,0.164,0.206
+47,Ain't My Fault,Zara Larsson,So Good,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']",67,79,0.576,0.355,0.782,141.153,-4.825,0.0296,0.0,0.285,0.00778
+48,Strip That Down,Liam Payne,Strip That Down,"['dance pop', 'pop', 'post-teen pop']",1,71,0.869,0.527,0.485,106.028,-5.595,0.0545,0.0,0.0765,0.246
+49,More Than You Know,Axwell /\ Ingrosso,More Than You Know,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",0,70,0.645,0.534,0.741,123.07,-4.989,0.0339,0.0,0.29,0.0323
+50,Friends (with BloodPop®),Justin Bieber,Friends (with BloodPop®),"['canadian pop', 'pop']",0,96,0.744,0.649,0.739,104.99,-5.35,0.0387,0.0,0.306,0.00459
+51,...Ready For It?,Taylor Swift,reputation,['pop'],72,98,0.613,0.417,0.764,160.015,-6.509,0.136,0.0,0.197,0.0527
+52,Him & I,G-Eazy,Him & I,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']",0,81,0.589,0.191,0.731,87.908,-6.343,0.0868,0.0,0.308,0.0534
+53,What Lovers Do (feat. SZA),Maroon 5,Red Pill Blues (Deluxe),"['pop', 'pop rock']",0,90,0.795,0.393,0.615,110.009,-5.211,0.0671,2.98e-06,0.0855,0.0786
+54,Came Here for Love,Sigala,Came Here for Love,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house']",63,78,0.708,0.72,0.868,124.994,-3.287,0.0431,0.0,0.122,0.0313
+55,24K Magic,Bruno Mars,24K Magic,"['dance pop', 'pop']",78,92,0.818,0.632,0.803,106.97,-4.282,0.0797,0.0,0.153,0.034
+56,Slow Hands,Niall Horan,Flicker (Deluxe),"['dance pop', 'pop', 'post-teen pop']",74,81,0.735,0.848,0.425,85.896,-6.648,0.0464,0.0,0.055,0.011
+57,"How Far I'll Go - From ""Moana""",Alessia Cara,"How Far I'll Go (From ""Moana"")","['canadian contemporary r&b', 'canadian pop', 'dance pop', 'pop', 'post-teen pop']",0,80,0.314,0.159,0.555,179.666,-9.601,0.37,0.000108,0.067,0.157
+58,Malibu,Miley Cyrus,Younger Now,"['dance pop', 'pop', 'post-teen pop']",74,87,0.573,0.343,0.781,139.934,-6.406,0.0555,2.64e-05,0.0813,0.0767
+59,Your Song,Rita Ora,Your Song,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop', 'tropical house', 'uk pop']",64,79,0.855,0.962,0.624,117.959,-4.093,0.0488,0.0,0.0513,0.158
+60,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,Grateful,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",71,82,0.609,0.811,0.668,80.924,-4.284,0.0367,0.0,0.167,0.0552
+61,Issues,Julia Michaels,Nervous System,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']",0,80,0.706,0.42,0.427,113.804,-6.864,0.0879,0.0,0.0609,0.413
+62,Glorious (feat. Skylar Grey),Macklemore,GEMINI,"['pop rap', 'seattle hip hop']",73,81,0.731,0.356,0.794,139.994,-5.126,0.0522,2.59e-05,0.112,0.0323
+63,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Calvin Harris,Funk Wav Bounces Vol.1,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'progressive house', 'uk dance']",78,87,0.893,0.872,0.745,101.018,-3.105,0.0571,0.0,0.0943,0.0642
+64,Unforgettable,French Montana,Jungle Rules,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",81,81,0.726,0.733,0.769,97.985,-5.043,0.123,0.0101,0.104,0.0293
+65,Ciao Adios,Anne-Marie,Ciao Adios,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",57,82,0.698,0.445,0.882,106.083,-3.078,0.0863,0.0,0.15,0.127
+66,Lonely Together (feat. Rita Ora),Avicii,AVĪCI (01),"['dance pop', 'edm', 'pop', 'pop dance']",53,85,0.655,0.272,0.666,102.977,-5.309,0.0612,2.12e-05,0.0683,0.134
+67,Good Life (with G-Eazy & Kehlani),G-Eazy,Good Life (with G-Eazy & Kehlani),"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']",62,81,0.572,0.54,0.778,168.073,-5.208,0.233,0.0,0.0563,0.00638
+68,Call on Me - Ryan Riback Remix,Starley,Call On Me (Remixes),"['aussietronica', 'dance pop', 'pop dance', 'tropical house']",48,61,0.67,0.716,0.838,105.0,-4.031,0.0362,0.000611,0.159,0.0605
+69,Weak,AJR,The Click,['modern rock'],0,78,0.673,0.678,0.637,123.98,-4.518,0.0429,0.0,0.184,0.137
+70,Fetish (feat. Gucci Mane),Selena Gomez,Fetish (feat. Gucci Mane),"['dance pop', 'pop', 'post-teen pop']",69,86,0.708,0.265,0.618,123.013,-4.424,0.0592,6.81e-06,0.062,0.0204
+71,I Would Like,Zara Larsson,So Good,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']",57,79,0.486,0.297,0.713,121.028,-3.949,0.0524,0.0,0.0839,0.0853
+72,What About Us,P!nk,Beautiful Trauma,"['dance pop', 'pop']",73,84,0.491,0.193,0.588,113.608,-6.177,0.0506,2.01e-06,0.0906,0.0281
+73,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),"['dance pop', 'pop', 'pop rap', 'post-teen pop']",74,85,0.696,0.782,0.817,98.064,-3.862,0.109,0.0,0.187,0.075
+74,Rich Love (with Seeb),OneRepublic,Rich Love,"['dance pop', 'piano rock', 'pop', 'pop rock']",64,86,0.401,0.472,0.872,104.592,-3.641,0.314,0.0,0.362,0.167
+75,Green Light,Lorde,Melodrama,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",73,82,0.594,0.253,0.721,128.942,-7.812,0.0957,8.55e-06,0.0879,0.0209
+76,Reggaetón Lento (Remix),CNCO,Glory Days: The Platinum Edition,"['boy band', 'latin', 'latin pop', 'reggaeton']",0,75,0.623,0.651,0.909,93.984,-3.079,0.0758,0.0,0.0972,0.158
+77,1-800-273-8255,Logic,Everybody,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",0,82,0.627,0.361,0.572,100.041,-7.738,0.0373,1.52e-06,0.198,0.568
+78,Don't Leave,Snakehips,Don't Leave,"['edm', 'electropop', 'pop', 'pop dance', 'tropical house']",62,68,0.657,0.338,0.703,122.381,-3.402,0.0753,0.0,0.256,0.222
+79,Sign of the Times,Harry Styles,Harry Styles,['pop'],82,93,0.516,0.222,0.595,119.972,-4.63,0.0313,0.0,0.109,0.0275
+80,Despacito - Remix,Luis Fonsi,VIDA,"['latin', 'latin pop', 'puerto rican pop']",69,80,0.649,0.857,0.798,177.899,-4.346,0.178,0.0,0.0711,0.226
+81,Location,Khalid,American Teen,"['pop', 'pop r&b']",78,90,0.736,0.326,0.449,80.126,-11.462,0.425,0.000162,0.0898,0.33
+82,Congratulations,Post Malone,Stoney (Deluxe),"['dfw rap', 'melodic rap', 'rap']",81,91,0.63,0.492,0.804,123.146,-4.183,0.0363,0.0,0.253,0.215
+83,Stargazing,Kygo,Stargazing - EP,"['edm', 'pop', 'pop dance', 'tropical house']",67,85,0.677,0.419,0.497,99.137,-5.763,0.0809,0.0,0.0911,0.152
+84,Believer,Imagine Dragons,Evolve,"['modern rock', 'rock']",1,93,0.779,0.708,0.787,124.982,-4.305,0.108,0.0,0.14,0.0524
+85,do re mi,blackbear,digital druglord,"['electropop', 'pop', 'pop rap']",4,86,0.745,0.17,0.593,111.002,-6.35,0.0526,5.25e-06,0.123,0.00522
+86,Praying,Kesha,Praying,"['dance pop', 'electropop', 'pop', 'post-teen pop']",0,82,0.565,0.325,0.381,73.483,-7.204,0.0302,0.0,0.109,0.48
+87,iSpy (feat. Lil Yachty),KYLE,iSpy (feat. Lil Yachty),"['pop', 'pop rap', 'rap', 'social media pop']",71,72,0.746,0.672,0.653,75.016,-6.745,0.289,0.0,0.229,0.378
+88,First Time,Kygo,First Time,"['edm', 'pop', 'pop dance', 'tropical house']",64,85,0.633,0.679,0.592,90.066,-7.245,0.112,0.0,0.099,0.197
+89,I Feel It Coming,The Weeknd,Starboy,"['canadian contemporary r&b', 'canadian pop', 'pop']",77,97,0.773,0.585,0.819,92.987,-5.946,0.118,0.0,0.0679,0.428
+90,Chained To The Rhythm,Katy Perry,Witness (Deluxe),"['dance pop', 'pop', 'post-teen pop']",69,88,0.562,0.471,0.8,95.029,-5.404,0.112,0.0,0.199,0.0814
+91,Now Or Never,Halsey,hopeless fountain kingdom (Deluxe),"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",66,87,0.67,0.447,0.585,110.03,-4.861,0.0354,1.11e-06,0.131,0.107
+92,Whatever It Takes,Imagine Dragons,Evolve,"['modern rock', 'rock']",79,93,0.672,0.556,0.655,134.945,-5.021,0.0311,0.0,0.117,0.0362
+93,Love On The Brain,Rihanna,ANTI,"['barbadian pop', 'dance pop', 'pop', 'pop rap', 'urban contemporary']",0,92,0.509,0.378,0.637,172.006,-4.83,0.0471,1.08e-05,0.0789,0.0717
+94,I Fall Apart,Post Malone,Stoney (Deluxe),"['dfw rap', 'melodic rap', 'rap']",78,91,0.556,0.291,0.538,143.95,-5.408,0.0382,0.0,0.196,0.0689
+95,Anywhere,Rita Ora,Anywhere,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop', 'tropical house', 'uk pop']",62,79,0.628,0.321,0.797,106.93,-3.953,0.0596,0.0,0.104,0.0364
+96,Slide (feat. Frank Ocean & Migos),Calvin Harris,Slide (feat. Frank Ocean & Migos),"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'progressive house', 'uk dance']",72,87,0.736,0.511,0.795,104.066,-3.299,0.0545,1.21e-06,0.254,0.498
+97,broken,lovelytheband,finding it hard to smile,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",70,66,0.666,0.51,0.728,122.996,-5.808,0.0419,4.26e-06,0.0429,0.00175
+98,Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,Grateful,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",72,82,0.671,0.632,0.672,97.979,-3.094,0.0688,0.0,0.118,0.0329
+99,Homemade Dynamite - REMIX,Lorde,Melodrama,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",7,82,0.781,0.175,0.548,106.996,-4.997,0.0764,0.0,0.127,0.229
+100,Mi Gente,J Balvin,Mi Gente,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",52,93,0.548,0.309,0.701,104.237,-4.862,0.0914,1.34e-05,0.134,0.0178

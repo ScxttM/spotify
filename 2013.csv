@@ -1,0 +1,101 @@
+,track_name,artist_name,album_name,artist_genres,track_popularity,artist_popularity,mood_danceability,mood_valence,mood_energy,mood_tempo,prop_loudness,prop_speechiness,prop_instrumentalness,context_liveness,context_acousticness
+1,Royals,Lorde,Pure Heroine,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",77,82,0.674,0.337,0.428,84.878,-9.504,0.122,0.0,0.132,0.121
+2,Blurred Lines,Robin Thicke,Blurred Lines,"['contemporary r&b', 'dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",55,69,0.861,0.881,0.504,120.0,-7.707,0.0489,1.78e-05,0.0783,0.00412
+3,Radioactive,Imagine Dragons,Night Visions,"['modern rock', 'rock']",76,93,0.448,0.236,0.784,136.245,-3.686,0.0627,0.000108,0.668,0.106
+4,Wake Me Up,Avicii,True,"['dance pop', 'edm', 'pop', 'pop dance']",6,85,0.532,0.643,0.783,124.08,-5.697,0.0523,0.0012,0.161,0.0038
+5,Locked out of Heaven,Bruno Mars,Unorthodox Jukebox,"['dance pop', 'pop']",85,92,0.726,0.867,0.698,143.994,-4.165,0.0431,0.0,0.309,0.049
+6,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,The Heist (Deluxe Edition),"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",1,77,0.781,0.662,0.526,94.992,-6.985,0.293,0.0,0.0457,0.0619
+7,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],"['electro', 'filter house']",83,84,0.794,0.862,0.811,116.047,-8.966,0.038,1.07e-06,0.101,0.0426
+8,Beauty And A Beat,Justin Bieber,Believe (Deluxe Edition),"['canadian pop', 'pop']",72,96,0.602,0.526,0.843,128.003,-4.831,0.0593,5.27e-05,0.0682,0.000688
+9,Heart Attack,Demi Lovato,Demi,"['dance pop', 'pop', 'post-teen pop']",79,85,0.504,0.502,0.785,173.968,-4.802,0.104,0.0,0.239,0.0738
+10,Best Song Ever,One Direction,Midnight Memories (Deluxe),"['boy band', 'pop', 'post-teen pop', 'talent show']",76,89,0.652,0.486,0.877,118.491,-2.986,0.0465,0.0,0.0789,0.0227
+11,Still into You,Paramore,Paramore,"['candy pop', 'pixie', 'pop emo', 'pop punk']",79,81,0.602,0.765,0.923,136.01,-3.763,0.044,0.0,0.0561,0.0098
+12,Feel This Moment (feat. Christina Aguilera),Pitbull,Global Warming: Meltdown (Deluxe Version),"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",77,87,0.673,0.542,0.758,135.956,-3.632,0.158,0.0,0.341,0.039
+13,I Knew You Were Trouble.,Taylor Swift,Red (Big Machine Radio Release Special),['pop'],76,98,0.622,0.679,0.469,77.019,-6.798,0.0363,2.25e-06,0.0335,0.00454
+14,Sweater Weather,The Neighbourhood,I Love You.,"['modern alternative rock', 'modern rock', 'pop', 'shimmer pop']",89,89,0.612,0.398,0.807,124.053,-2.81,0.0336,0.0177,0.101,0.0495
+15,True Love (feat. Lily Allen),P!nk,The Truth About Love,"['dance pop', 'pop']",71,84,0.457,0.578,0.823,192.205,-4.76,0.311,0.0,0.108,0.00144
+16,Mirrors,Justin Timberlake,The 20/20 Experience (Deluxe Version),"['dance pop', 'pop']",77,83,0.574,0.512,0.512,76.899,-6.664,0.0503,0.0,0.0946,0.234
+17,Unconditionally,Katy Perry,PRISM (Deluxe),"['dance pop', 'pop', 'post-teen pop']",0,88,0.555,0.369,0.729,129.003,-4.813,0.0387,0.0,0.209,0.00357
+18,Clarity,Zedd,Clarity (Deluxe),"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'pop rap', 'tropical house']",0,80,0.523,0.193,0.78,128.006,-3.464,0.0753,0.0,0.0751,0.0366
+19,22,Taylor Swift,Red (Big Machine Radio Release Special),['pop'],68,98,0.661,0.668,0.729,103.987,-6.561,0.0376,0.0013,0.0477,0.00215
+20,Ready or Not,Bridgit Mendler,Hello My Name Is...,"['dance pop', 'pop', 'post-teen pop']",72,67,0.715,0.748,0.872,93.043,-3.835,0.0509,3.84e-05,0.107,0.00351
+21,Pompeii,Bastille,All This Bad Blood,"['metropopolis', 'modern rock', 'pop', 'pop rock']",74,80,0.679,0.571,0.715,127.435,-6.383,0.0407,0.0,0.271,0.0755
+22,Safe And Sound,Capital Cities,Safe And Sound,['metropopolis'],0,71,0.652,0.836,0.783,117.952,-4.829,0.0309,0.0173,0.0889,0.000189
+23,Team,Lorde,Pure Heroine (Extended),"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",0,82,0.691,0.427,0.582,100.05,-7.444,0.0939,0.0,0.247,0.162
+24,Why'd You Only Call Me When You're High?,Arctic Monkeys,AM,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",84,88,0.691,0.8,0.631,92.004,-6.478,0.0368,1.13e-05,0.104,0.0483
+25,We Can't Stop,Miley Cyrus,Bangerz (Deluxe Version),"['dance pop', 'pop', 'post-teen pop']",77,87,0.613,0.484,0.622,80.003,-5.794,0.0334,0.0,0.37,0.00882
+26,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,The Heist,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",81,77,0.641,0.847,0.922,146.078,-4.457,0.0786,0.0,0.0862,0.0291
+27,The Other Side,Jason Derulo,Tattoos (Deluxe Edition),"['dance pop', 'pop', 'pop rap', 'post-teen pop']",50,85,0.561,0.517,0.836,127.923,-3.939,0.1,0.0,0.136,0.0525
+28,The Way,Ariana Grande,Yours Truly,"['dance pop', 'pop']",65,93,0.645,0.862,0.878,82.324,-3.208,0.113,0.0,0.076,0.294
+29,Treasure,Bruno Mars,Unorthodox Jukebox,"['dance pop', 'pop']",78,92,0.874,0.937,0.692,116.017,-5.28,0.0431,7.24e-05,0.324,0.0412
+30,The Monster,Eminem,The Marshall Mathers LP2,"['detroit hip hop', 'hip hop', 'rap']",75,95,0.781,0.624,0.853,110.049,-3.68,0.0715,0.0,0.12,0.0525
+31,Here's to Never Growing Up,Avril Lavigne,Here's to Never Growing Up,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",0,81,0.483,0.716,0.871,164.986,-3.084,0.101,0.0,0.415,0.015
+32,Scream & Shout,will.i.am,#willpower,"['dance pop', 'pop', 'pop rap']",78,78,0.772,0.501,0.685,130.033,-6.849,0.0696,8.96e-05,0.131,0.019
+33,La La La,Naughty Boy,La La La,"['tropical house', 'uk contemporary r&b']",58,66,0.754,0.254,0.677,124.988,-4.399,0.0316,0.0,0.111,0.112
+34,Roar,Katy Perry,PRISM (Deluxe),"['dance pop', 'pop', 'post-teen pop']",72,88,0.554,0.455,0.772,179.984,-4.821,0.0418,6.6e-06,0.354,0.00487
+35,I Love It (feat. Charli XCX),Icona Pop,THIS IS... ICONA POP,"['candy pop', 'dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'pop dance', 'swedish electropop', 'swedish synthpop']",68,71,0.711,0.824,0.906,125.916,-2.671,0.0284,1.64e-05,0.153,0.00952
+36,Everything Has Changed,Taylor Swift,Red (Big Machine Radio Release Special),['pop'],66,98,0.624,0.436,0.458,80.016,-6.755,0.0287,3.89e-06,0.311,0.36
+37,When I Was Your Man,Bruno Mars,Unorthodox Jukebox,"['dance pop', 'pop']",83,92,0.612,0.387,0.28,72.795,-8.648,0.0434,0.0,0.088,0.932
+38,Another Love,Tom Odell,Long Way Down (Deluxe),"['chill pop', 'pop']",88,79,0.445,0.131,0.537,122.769,-8.532,0.04,1.65e-05,0.0944,0.695
+39,Burn,Ellie Goulding,Halcyon Days,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'uk pop']",70,81,0.559,0.329,0.777,87.016,-5.031,0.0432,0.0,0.105,0.31
+40,#thatPOWER,will.i.am,#willpower (Deluxe),"['dance pop', 'pop', 'pop rap']",68,78,0.797,0.402,0.608,127.999,-6.096,0.0584,7.66e-05,0.0748,0.00112
+41,Ain't It Fun,Paramore,Paramore,"['candy pop', 'pixie', 'pop emo', 'pop punk']",72,81,0.61,0.673,0.893,104.031,-3.681,0.0921,4.41e-05,0.021,0.154
+42,Daylight,Maroon 5,Overexposed Track By Track,"['pop', 'pop rock']",66,90,0.656,0.369,0.674,120.001,-5.473,0.0269,0.0,0.255,0.00242
+43,Demons,Imagine Dragons,Night Visions,"['modern rock', 'rock']",80,93,0.505,0.428,0.71,89.938,-3.015,0.0321,0.00025,0.269,0.19
+44,Little Talks,Of Monsters and Men,My Head Is An Animal,"['folk-pop', 'metropopolis', 'modern rock', 'pop rock', 'stomp and holler']",79,73,0.457,0.417,0.757,102.961,-5.177,0.032,0.0,0.146,0.0206
+45,Come & Get It,Selena Gomez,Stars Dance (Bonus Track Version),"['dance pop', 'pop', 'post-teen pop']",69,86,0.546,0.573,0.787,79.979,-4.1,0.0517,0.00021,0.0809,0.0101
+46,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),"['art pop', 'pop']",72,89,0.572,0.11,0.81,126.052,-5.791,0.0558,6.53e-06,0.13,0.0157
+47,Try,P!nk,The Truth About Love,"['dance pop', 'pop']",76,84,0.674,0.552,0.628,103.998,-7.079,0.03,0.0,0.0944,0.00144
+48,Wrecking Ball,Miley Cyrus,Bangerz (Deluxe Version),"['dance pop', 'pop', 'post-teen pop']",77,87,0.53,0.349,0.422,119.964,-6.262,0.0342,0.0,0.107,0.407
+49,This Is How We Do,Katy Perry,PRISM (Deluxe),"['dance pop', 'pop', 'post-teen pop']",60,88,0.69,0.8,0.636,96.0,-6.028,0.0457,0.0,0.147,0.0203
+50,Stay,Rihanna,Unapologetic (Deluxe),"['barbadian pop', 'dance pop', 'pop', 'pop rap', 'urban contemporary']",75,92,0.621,0.125,0.31,111.893,-10.164,0.0283,6.12e-05,0.117,0.945
+51,One Way or Another (Teenage Kicks),One Direction,One Way Or Another (Teenage Kicks),"['boy band', 'pop', 'post-teen pop', 'talent show']",65,89,0.489,0.409,0.867,162.131,-3.121,0.071,0.0,0.586,0.025
+52,Play Hard (feat. Ne-Yo & Akon),David Guetta,Nothing but the Beat (Ultimate Edition),"['big room', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",68,91,0.691,0.8,0.921,130.072,-1.702,0.0533,0.0,0.331,0.173
+53,What About Us,The Saturdays,Living For The Weekend (Deluxe Edition),"['bubblegum dance', 'dance pop', 'electropop', 'europop', 'girl group', 'pop', 'post-teen pop', 'uk pop']",61,62,0.704,0.689,0.68,123.973,-4.751,0.0581,0.0,0.213,0.0059
+54,I Need Your Love (feat. Ellie Goulding),Calvin Harris,18 Months,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'progressive house', 'uk dance']",70,87,0.695,0.58,0.869,124.989,-5.066,0.0483,0.0,0.237,0.41
+55,Talk Dirty (feat. 2 Chainz),Jason Derulo,Tattoos (Deluxe Edition),"['dance pop', 'pop', 'pop rap', 'post-teen pop']",56,85,0.76,0.759,0.652,100.315,-7.321,0.232,0.0,0.307,0.0348
+56,Love Me Again,John Newman,Tribute,[],73,73,0.495,0.213,0.894,126.03,-4.814,0.0441,0.000596,0.103,0.00453
+57,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,Avicii,I Could Be The One [Avicii vs Nicky Romero],"['dance pop', 'edm', 'pop', 'pop dance']",67,85,0.509,0.638,0.79,127.946,-3.782,0.0374,6.67e-05,0.316,0.332
+58,I Cry,Flo Rida,Wild Ones,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",60,83,0.693,0.763,0.822,126.035,-5.441,0.0439,1.79e-06,0.315,0.00616
+59,Just Give Me a Reason (feat. Nate Ruess),P!nk,The Truth About Love,"['dance pop', 'pop']",79,84,0.778,0.441,0.547,95.002,-7.273,0.0489,0.000302,0.132,0.346
+60,"Hold On, We're Going Home",Drake,Nothing Was The Same (Deluxe),"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",72,98,0.773,0.289,0.414,99.993,-7.436,0.0961,3.4e-05,0.0733,0.00411
+61,Let Her Go,Passenger,All The Little Lights,"['folk-pop', 'neo mellow', 'pop', 'pop rock']",73,76,0.509,0.244,0.538,75.089,-7.335,0.0572,0.0,0.104,0.385
+62,Holy Grail,JAY-Z,Magna Carta... Holy Grail,"['east coast hip hop', 'hip hop', 'rap']",62,88,0.676,0.156,0.534,145.082,-6.901,0.0831,8.59e-06,0.256,0.0594
+63,Chocolate,The 1975,The 1975,"['modern alternative rock', 'modern rock', 'pop', 'rock']",64,78,0.614,0.607,0.938,100.058,-4.461,0.0611,0.0,0.368,0.000532
+64,A Thousand Years,Christina Perri,Autumn Acoustic,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",51,75,0.423,0.161,0.407,139.048,-7.45,0.0267,0.000961,0.11,0.312
+65,Love Me,Lil Wayne,I Am Not A Human Being II (Deluxe),"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",67,91,0.669,0.496,0.634,124.906,-6.476,0.0327,0.0,0.0946,0.0125
+66,Sweet Nothing (feat. Florence Welch),Calvin Harris,18 Months,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'progressive house', 'uk dance']",70,87,0.573,0.582,0.929,127.934,-3.942,0.109,0.000112,0.0567,0.197
+67,3005,Childish Gambino,3005,"['atl hip hop', 'hip hop', 'rap']",0,82,0.681,0.661,0.463,82.92,-6.542,0.289,0.0,0.0769,0.128
+68,Ho Hey,The Lumineers,The Lumineers (Deluxe Edition),"['folk-pop', 'pop', 'pop rock', 'stomp and holler']",74,81,0.682,0.421,0.471,79.907,-9.182,0.0301,0.0,0.0908,0.765
+69,Do I Wanna Know?,Arctic Monkeys,AM,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",83,88,0.548,0.405,0.532,85.03,-7.596,0.0323,0.000263,0.217,0.186
+70,All I Want,Kodaline,In A Perfect World,"['irish pop', 'modern rock', 'pop', 'pop rock']",0,75,0.209,0.162,0.412,86.26,-9.733,0.0443,0.15,0.0843,0.172
+71,Work B**ch,Britney Spears,Work B**ch,"['dance pop', 'pop', 'post-teen pop']",0,84,0.63,0.85,0.816,128.012,-6.535,0.15,0.00111,0.0616,0.124
+72,It's a Beautiful Day,Michael Bublé,To Be Loved,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",65,78,0.532,0.78,0.795,143.837,-3.979,0.0358,0.0,0.295,0.0559
+73,human,Christina Perri,human,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",59,75,0.439,0.253,0.489,143.808,-6.286,0.0368,0.000643,0.114,0.132
+74,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Save Rock And Roll,"['emo', 'modern rock', 'rock']",71,82,0.558,0.567,0.924,151.99,-4.341,0.064,3.32e-06,0.537,0.0271
+75,Wings,Birdy,Wings,"['pop', 'pop rock']",48,73,0.474,0.224,0.707,83.235,-4.534,0.0253,0.0,0.162,0.0831
+76,Don't Stop the Party (feat. TJR),Pitbull,Global Warming: Meltdown (Deluxe Version),"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",64,87,0.722,0.952,0.958,127.008,-3.617,0.0912,0.0,0.375,0.00726
+77,White Noise,Disclosure,Settle (Special Edition),"['edm', 'house', 'pop', 'uk dance']",54,78,0.665,0.902,0.844,119.978,-6.164,0.0501,0.000215,0.311,0.00963
+78,Hey Porsche,Nelly,M.O. (Deluxe Edition),"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'st louis rap', 'urban contemporary']",56,79,0.726,0.952,0.795,115.995,-4.653,0.029,0.0,0.698,0.136
+79,Thinking About You (feat. Ayah Marar),Calvin Harris,18 Months,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'progressive house', 'uk dance']",65,87,0.725,0.748,0.874,127.985,-3.715,0.0396,0.000412,0.0958,0.00262
+80,Dear Darlin',Olly Murs,Right Place Right Time (Expanded Edition),"['dance pop', 'neo mellow', 'pop', 'pop dance', 'pop rock', 'post-teen pop', 'talent show', 'tropical house', 'uk pop']",59,71,0.512,0.34,0.828,124.021,-4.672,0.0454,8.73e-06,0.119,0.00627
+81,Cruise,Florida Georgia Line,Here's To The Good Times,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",57,80,0.457,0.878,0.948,148.0,-3.364,0.0354,0.0,0.0536,0.0191
+82,Papaoutai,Stromae,racine carrée,"['belgian pop', 'g-house']",0,80,0.733,0.253,0.818,116.019,-7.222,0.0859,0.0,0.0636,0.0241
+83,Fine China,Chris Brown,Fine China,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",0,90,0.659,0.609,0.735,104.038,-4.758,0.056,0.0,0.111,0.0466
+84,This Is What It Feels Like,Armin van Buuren,Intense,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",66,78,0.551,0.145,0.833,129.885,-5.217,0.03,2.77e-06,0.0632,0.0391
+85,Reload - Radio Edit,Sebastian Ingrosso,Reload (Vocal Version / Radio Edit),"['dance pop', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",67,66,0.485,0.433,0.724,128.045,-4.633,0.0521,0.0,0.0631,0.0736
+86,Suit & Tie (feat. Jay-Z),Justin Timberlake,The 20/20 Experience (Deluxe Version),"['dance pop', 'pop']",67,83,0.795,0.357,0.596,101.985,-3.799,0.219,0.0,0.164,0.103
+87,Power Trip (feat. Miguel),J. Cole,Born Sinner,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",0,91,0.667,0.465,0.61,99.991,-7.054,0.217,0.000203,0.426,0.322
+88,Home,Phillip Phillips,The World From The Side Of The Moon,"['folk-pop', 'modern rock', 'neo mellow', 'pop rock']",57,67,0.606,0.322,0.826,121.04,-6.04,0.0307,1.56e-05,0.117,0.0256
+89,Drinking from the Bottle (feat. Tinie Tempah),Calvin Harris,18 Months,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'progressive house', 'uk dance']",61,87,0.665,0.53,0.886,128.062,-4.175,0.0514,6.24e-05,0.0525,0.0469
+90,Waiting All Night (feat. Ella Eyre),Rudimental,Home (Deluxe Edition),"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",65,73,0.544,0.281,0.728,174.983,-5.358,0.05,0.00959,0.427,0.00264
+91,Need U (100%) [feat. A*M*E] - Radio Edit,Duke Dumont,need u (100%) (feat. a*m*e),"['destroy techno', 'edm', 'electro house', 'house', 'pop dance', 'progressive house', 'tropical house']",27,70,0.681,0.469,0.835,124.047,-5.705,0.049,0.00183,0.354,0.00176
+92,I Will Wait,Mumford & Sons,Babel (Deluxe Version),"['modern folk rock', 'modern rock', 'pop rock', 'stomp and holler', 'uk americana']",53,76,0.486,0.393,0.769,131.286,-5.14,0.0341,0.00832,0.197,0.0119
+93,Bonfire Heart,James Blunt,Bonfire Heart,"['neo mellow', 'pop', 'pop rock']",0,75,0.575,0.449,0.821,118.021,-5.7,0.0527,0.0,0.124,0.181
+94,Get Up (Rattle) - Vocal Edit,Bingo Players,Get Up (Rattle),"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",0,65,0.801,0.722,0.985,127.99,-2.69,0.0645,6.86e-06,0.296,0.0205
+95,Of The Night,Bastille,All This Bad Blood,"['metropopolis', 'modern rock', 'pop', 'pop rock']",61,80,0.67,0.349,0.829,125.01,-7.2,0.0427,0.000225,0.089,0.0192
+96,Animals - Radio Edit,Martin Garrix,Animals,"['dance pop', 'dutch edm', 'edm', 'electro house', 'pop', 'pop dance', 'progressive house', 'tropical house']",0,82,0.593,0.0381,0.914,128.015,-5.351,0.0363,0.445,0.0714,0.00137
+97,The Fox (What Does the Fox Say?),Ylvis,The Fox (What Does the Fox Say?),['comic'],63,53,0.703,0.546,0.867,128.008,-4.292,0.0453,0.0,0.119,0.107
+98,Body Party,Ciara,Ciara,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",63,74,0.577,0.12,0.576,133.973,-6.299,0.0563,0.0,0.602,0.0143
+99,Somewhere Only We Know,Lily Allen,Sheezus,"['dance pop', 'pop']",60,72,0.313,0.287,0.286,80.925,-10.593,0.0324,0.0451,0.0974,0.934
+100,Look Right Through - MK Vocal Edit,Storm Queen,Look Right Through (Remixes),['deep disco house'],0,48,0.832,0.519,0.815,119.995,-8.035,0.081,0.00553,0.263,0.00304
